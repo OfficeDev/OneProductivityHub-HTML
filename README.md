@@ -10,7 +10,7 @@ In this lab, you will learn:
 
 Final solution will be a web app for monitoring your agenda, to-do tasks and file list:
 
-![One Productivity Hub](/Labs/Images/oneproductivityhubHTML.gif)
+![One Productivity Hub](/Labs/Images/oneprodHTML.gif)
 
 ## Prerequisites
 

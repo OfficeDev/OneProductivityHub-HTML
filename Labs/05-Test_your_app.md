@@ -11,7 +11,7 @@ Select `CTRL + SHIFT + P` to open the panel in Visual Studio Code, type and choo
 
 Localhost will be initialized by Live Server and One Productivity Hub page will pop up in your browser. Select **Sign in** and use your Microsoft 365 Developer Program tenant to login and consent the required permissions to use the application features.
 
-![One Productivity Hub app](/Labs/Images/oneproductivityhubHTML.gif)
+![One Productivity Hub app](/Labs/Images/oneprodHTML.gif)
 
 ---
 **📌 NOTE 📌 :** Try to add some calendar events, to-do tasks and file folders in your M365 Developer tenant account. Your "One Productivity Hub" will look awesome that way! 🌟
